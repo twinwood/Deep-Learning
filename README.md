@@ -1,9 +1,9 @@
 # Deep-Learning
 
-#Keras
-#Pytorch
-#Tensorflow
+# Keras
+# Pytorch
+# Tensorflow
 
-#Extra:
-#CNN
-#Vision Transformer
+# Extra:
+# CNN
+# Vision Transformer
